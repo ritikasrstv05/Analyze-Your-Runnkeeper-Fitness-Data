@@ -4,20 +4,22 @@ This is a pure Data Science model in which a data set of runkeeper application i
 Lets take a look :
 <br>
 
-![ijoin](https://github.com/ritikasrstv05/Some-OpenCV-Basics/blob/main/ijoin.png)
+![ijoin](https://github.com/ritikasrstv05/Analyze-Your-Runnkeeper-Fitness-Data/blob/main/1.1.png)
 
 
 
-![ijoin](https://github.com/ritikasrstv05/Some-OpenCV-Basics/blob/main/warp.png)
+![ijoin](https://github.com/ritikasrstv05/Analyze-Your-Runnkeeper-Fitness-Data/blob/main/1.2.png)
 
 
-![ijoin](https://github.com/ritikasrstv05/Some-OpenCV-Basics/blob/main/color.png)
+![ijoin](https://github.com/ritikasrstv05/Analyze-Your-Runnkeeper-Fitness-Data/blob/main/1.3.png)
 <br>
 
 
-![ijoin](https://github.com/ritikasrstv05/Some-OpenCV-Basics/blob/main/img.png)
+![ijoin](https://github.com/ritikasrstv05/Analyze-Your-Runnkeeper-Fitness-Data/blob/main/1.4.png)
 
 <br>
 
 
-![ijoin](https://github.com/ritikasrstv05/Some-OpenCV-Basics/blob/main/stack.png)
+![ijoin](https://github.com/ritikasrstv05/Analyze-Your-Runnkeeper-Fitness-Data/blob/main/1.5.png)
+<br>
+![ijoin](https://github.com/ritikasrstv05/Analyze-Your-Runnkeeper-Fitness-Data/blob/main/1.6.png)
